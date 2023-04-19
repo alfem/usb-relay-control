@@ -6,7 +6,7 @@ For my home automation system I bought a little relay board with USB interface.
 
 Seller provides windows software but I need to control this relays with my Linux based minipc (and Home Assistant). 
 
-After some Internet search, I found a couple of projects related to this kind of boards, but they were not compatible with my model.
+After some Internet search, I found a couple of projects related to this kind of boards (like [this](https://github.com/darrylb123/usbrelay)), but they were not compatible with my model.
 
 Seller wrote short instructions about controlling the relays in the item description:
 
