@@ -22,9 +22,9 @@ if RELAY < 1 or RELAY > 4:
     sys.exit(1)
 
 if COMMAND == "on":
-  command = 0
+  command = 1
 elif COMMAND == "off":
-   command = 1
+   command = 0
 else:   
     print("Command must be 'on' or 'off'")
     sys.exit(1)
